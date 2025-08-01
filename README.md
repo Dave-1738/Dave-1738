@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 IT Support/Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab ](https://github.com/Dave-1738
+  - [Active Directory Home Lab ](https://github.com/Dave-1738)
+  - [Hello World!](https://github.com/Dave-1738)
 
+<h2>Certifications</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Professional Certificate]((https://coursera.org/verify/professional-cert/K16ULT215AGU))
 
 
 <h2> 🤳 Connect with me:</h2>

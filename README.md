@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT Support/Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab ](https://github.com/Dave-1738)
-  - [Hello World!](https://github.com/Dave-1738)
+  - [Linux & Python Home Lab ]([https://github.com/Dave-1738](https://github.com/Dave-1738/Dave-s-Python-Kali-Linux-Lab))
+  - [Hello World! using Python]([https://github.com/Dave-1738](https://github.com/Dave-1738/Dave-s-Python-Kali-Linux-Lab))
 
 <h2>Certifications</h2>
 
